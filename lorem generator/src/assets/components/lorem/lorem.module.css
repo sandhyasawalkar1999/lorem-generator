@@ -1,0 +1,46 @@
+.lorem{
+    text-align: center;
+    background-color: antiquewhite;
+    align-items: flex-start;
+    padding: 10px;
+    height: auto;
+}
+body{
+    background-color: aliceblue;
+}
+
+.lorem h1{
+    font-size: 3em;
+    color: rgb(95, 2, 2);
+}
+.lorem input ,button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 40px;
+    font-size: 20px;
+    border: none;
+}
+
+.lorem input:hover{
+
+    box-shadow: 3px 3px 3px rgba(0, 0, 0,0.5);
+}
+
+.lorem button{
+    background-color: rgb(231, 161, 69);
+    color: rgb(238, 185, 105);
+    width: 7rem;
+    color:white;
+    border: none;
+}
+
+.lorem button:hover{
+    box-shadow: 3px 3px 5px orange;
+}
+.article{
+    /* background-color:rgb(237, 187, 94) ; */
+    padding: 10px 20vw;
+    width: 80vw auto;   
+    margin: 20px;
+}
